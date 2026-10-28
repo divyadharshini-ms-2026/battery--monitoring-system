@@ -23,3 +23,24 @@ Currently a learning and documentation project. Practical implementation and tes
 Author
 
 DIVYADHARSHINI M S
+
+
+
+Python Simulation
+
+This project includes a beginner-friendly Python simulation of a Battery Monitoring System.
+
+Features
+
+- Displays battery voltage.
+- Displays battery current.
+- Calculates electrical power using P = V × I.
+- Displays a basic status message.
+
+Sample Output
+
+- Voltage: 12 V
+- Current: 2 A
+- Power: 24 W
+
+Note: This is a software simulation. It does not measure a real battery.
